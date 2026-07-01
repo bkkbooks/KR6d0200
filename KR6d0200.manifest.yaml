@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6d0200/v1
+canonical_location: https://kanripo.org/bkk/KR6d0200/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 千手眼大悲心呪行法
+  identifiers:
+    alt_id:
+    - T46n1950
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1950.xml
+    old_id: T46n1950
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0200_000.yaml, hash: 'sha256:f7df2282353b7321108684c5c905a73f7eb7fc3006d0f9a9611453d0429b8a49'}
+  - {seq: 1, filename: KR6d0200_001.yaml, hash: 'sha256:fe0f6ee826f8f4359ff0e78a372866ca68f773be822b7fb009bbf79ab19713c5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0200_001.markers.yaml, hash: 'sha256:d0ce758b9451818e3689bee0691833907fd9f2c6bdea362f3b44be4e91b39422'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0200_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7815
+  label: 千手眼大悲心呪行法
+  type: juan
+  level: 1
+hash: sha256:f2727b26478f87e23552ac138f8225f057049fa213b4200f37beb2e327cb98c7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

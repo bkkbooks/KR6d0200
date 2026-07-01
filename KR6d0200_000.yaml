@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0200/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千手眼大悲心呪行法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1950.xml
+    old_id: T46n1950
+hash: sha256:f7df2282353b7321108684c5c905a73f7eb7fc3006d0f9a9611453d0429b8a49
