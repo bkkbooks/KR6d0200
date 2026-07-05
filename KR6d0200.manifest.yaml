@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0200_000.yaml, hash: 'sha256:f7df2282353b7321108684c5c905a73f7eb7fc3006d0f9a9611453d0429b8a49'}
-  - {seq: 1, filename: KR6d0200_001.yaml, hash: 'sha256:fe0f6ee826f8f4359ff0e78a372866ca68f773be822b7fb009bbf79ab19713c5'}
+  - {seq: 1, filename: KR6d0200_001.yaml, hash: 'sha256:d6476a6e036f7f7a5c65baad6a4fceb9cdcde2bc1ba6924675850d2bf2c65022'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0200_001.markers.yaml, hash: 'sha256:d0ce758b9451818e3689bee0691833907fd9f2c6bdea362f3b44be4e91b39422'}
+  - {seq: 0, role: markers, filename: assets/KR6d0200_000.markers.yaml, hash: 'sha256:e5287b2bf908dc80b01e87c95299b08f6709307534a3a8fd241b7c7594803533'}
+  - {seq: 1, role: markers, filename: assets/KR6d0200_001.markers.yaml, hash: 'sha256:49325053f6291da66e65152fc76f95e250a34d4a0cd765d116ce26c66d7632cb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 千手眼大悲心呪行法
   type: juan
   level: 1
-hash: sha256:f2727b26478f87e23552ac138f8225f057049fa213b4200f37beb2e327cb98c7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4d982e11ad3bfc10ee463f9c10f6b5e7ebb56dffe29a5414442f7a2193b22dc9
